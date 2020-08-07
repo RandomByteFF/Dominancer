@@ -1,0 +1,23 @@
+*{
+    font-family: Comic Sans MS;
+}
+body{
+    background-color: #333333;
+    color: #e0e0e0;
+}
+.center{
+    text-align: center;
+}
+.fancy{
+    color: red;
+    text-decoration: underline;
+}
+.field{
+    width: 30%;
+    height: 500px;
+    margin: 30px;
+}
+.button{
+    font-size: 20px;
+
+}
