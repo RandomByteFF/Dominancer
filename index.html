@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script src="wtfamidoingwithmylife.js"></script>
     <link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,10 +11,13 @@
     <h1 class="center">Dominancer</h1>
     <h3 class="center">When you <span class="fancy">really</span> need to assert your dominance over the seniors</h3>
     <div class="center">
-        <textarea cols="60" rows="60" class="field"></textarea>
-        <textarea cols="60" rows="60" class="field"></textarea>
+        <textarea cols="60" rows="60" class="field" id="input" placeholder="Input your code here"></textarea>
+        <textarea cols="60" rows="60" class="field" id="output" placeholder="The magic will output here"></textarea>
     </div>
-    <button class="button">Assert dominance</button>
+    <div class="center">
+        <button class="button" onclick="Convert()">Assert dominance</button>
+    </div>
+    
 
 </body>
 </html>
