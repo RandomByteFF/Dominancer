@@ -13,12 +13,16 @@ body{
     text-decoration: underline;
 }
 .field{
-    width: 30%;
-    height: 500px;
-    margin: 30px;
+    width: 40%;
+    height: 500pt;
+    margin: 20px;
     resize: none;
 }
 .button{
+    width: 190px;
     font-size: 20px;
-    
+    margin-bottom: 10px;
+}
+.op_button{
+    width: 92.5px;
 }
