@@ -1,3 +1,4 @@
+<img alt="Clearly a meme" src="https://img.shields.io/badge/Clearly-a meme-brightgreen"><br>
 # Dominancer
 Optimizes your code to assert dominance on the seniors
 
