@@ -1,5 +1,8 @@
 <img alt="Clearly a meme" src="https://img.shields.io/badge/Clearly-a meme-brightgreen"><br>
 # Dominancer
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dfc1a32df0e945b89394101efe83a2d9)](https://app.codacy.com/manual/RandomByteFF/Dominancer?utm_source=github.com&utm_medium=referral&utm_content=RandomByteFF/Dominancer&utm_campaign=Badge_Grade_Dashboard)
+
 Optimizes your code to assert dominance on the seniors
 
 ## Table of contents
