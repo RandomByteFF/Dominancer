@@ -6,10 +6,10 @@
 Optimizes your code to assert dominance on the seniors
 
 ## Table of contents
-  * [Functions](#functions)
-  * [TODO](#todo)
-  * [Setup](#setup)
-  * [Inspiration](#inspiration)
+* [Functions](#functions)
+* [TODO](#todo)
+* [Setup](#setup)
+* [Inspiration](#inspiration)
 
 ## Functions
 It takes any code, deletes the linebreakers, and returns a one-liner code. The code has Copy and Paste functions, but Paste rarely works.
