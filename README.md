@@ -3,17 +3,16 @@
 Optimizes your code to assert dominance on the seniors
 
 ## Table of contents
-* [Functions](#functions)
-* [TODO](#todo)
-* [Setup](#setup)
-* [Inspiration](#inspiration)
-
+  * [Functions](#functions)
+  * [TODO](#todo)
+  * [Setup](#setup)
+  * [Inspiration](#inspiration)
 
 ## Functions
 It takes any code, deletes the linebreakers, and returns a one-liner code. The code has Copy and Paste functions, but Paste rarely works.
 
 ## TODO
-* The Paste button needs a fix
+  * The Paste button needs a fix
 
 ## Setup
 If you just want to try it then I'm running it <a href="http://notmyevilbotnet.ddns.net/dominancer">here</a>. 
